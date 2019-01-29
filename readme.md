@@ -1,4 +1,4 @@
-## Import csv suing powershell
+## Import csv to sql server using powershell
 ### Prerequisites
 * install sql server express, use instance name ".\SQLEXPRESS"
 * Get-Module SqlServer -ListAvailable # check if powershell module exist
